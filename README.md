@@ -1,0 +1,1 @@
+This project is a Power BI custom visual and dashboard development workspace. It contains the structural configuration, layout metadata, and resource assets required for building, packaging, and rendering custom analytical charts and interactive reporting elements within Power BI.
